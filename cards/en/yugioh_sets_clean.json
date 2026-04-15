@@ -1,0 +1,3872 @@
+[
+  {
+    "id": "2017",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! World Championship 2017 prize cards",
+    "release_date": null
+  },
+  {
+    "id": "2018",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! World Championship 2018 prize cards",
+    "release_date": null
+  },
+  {
+    "id": "2019",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! World Championship 2019 Japanese National Qualifiers prize cards",
+    "release_date": null
+  },
+  {
+    "id": "2020",
+    "game": "yugioh",
+    "set_name": "KC Grand Tournament prize card",
+    "release_date": null
+  },
+  {
+    "id": "2021",
+    "game": "yugioh",
+    "set_name": "KC Grand Tournament 2021 prize card",
+    "release_date": null
+  },
+  {
+    "id": "jush",
+    "game": "yugioh",
+    "set_name": "Justice Hunters",
+    "release_date": null
+  },
+  {
+    "id": "fotb",
+    "game": "yugioh",
+    "set_name": "Force of the Breaker",
+    "release_date": null
+  },
+  {
+    "id": "glas",
+    "game": "yugioh",
+    "set_name": "Gladiator's Assault",
+    "release_date": null
+  },
+  {
+    "id": "inov",
+    "game": "yugioh",
+    "set_name": "Invasion: Vengeance",
+    "release_date": null
+  },
+  {
+    "id": "ston",
+    "game": "yugioh",
+    "set_name": "Strike of Neos",
+    "release_date": null
+  },
+  {
+    "id": "dune",
+    "game": "yugioh",
+    "set_name": "Duelist Nexus",
+    "release_date": null
+  },
+  {
+    "id": "mp21",
+    "game": "yugioh",
+    "set_name": "2021 Tin of Ancient Battles",
+    "release_date": null
+  },
+  {
+    "id": "amde",
+    "game": "yugioh",
+    "set_name": "Amazing Defenders",
+    "release_date": null
+  },
+  {
+    "id": "rotd",
+    "game": "yugioh",
+    "set_name": "Rise of the Duelist",
+    "release_date": null
+  },
+  {
+    "id": "mp15",
+    "game": "yugioh",
+    "set_name": "2015 Mega-Tin Mega Pack",
+    "release_date": null
+  },
+  {
+    "id": "mp24",
+    "game": "yugioh",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors",
+    "release_date": null
+  },
+  {
+    "id": "nech",
+    "game": "yugioh",
+    "set_name": "The New Challengers",
+    "release_date": null
+  },
+  {
+    "id": "ast",
+    "game": "yugioh",
+    "set_name": "Ancient Sanctuary",
+    "release_date": null
+  },
+  {
+    "id": "dr2",
+    "game": "yugioh",
+    "set_name": "Dark Revelation Volume 2",
+    "release_date": null
+  },
+  {
+    "id": "db1",
+    "game": "yugioh",
+    "set_name": "Dark Beginning 1",
+    "release_date": null
+  },
+  {
+    "id": "psv",
+    "game": "yugioh",
+    "set_name": "Pharaoh's Servant",
+    "release_date": null
+  },
+  {
+    "id": "rp02",
+    "game": "yugioh",
+    "set_name": "Retro Pack 2",
+    "release_date": null
+  },
+  {
+    "id": "ysyr",
+    "game": "yugioh",
+    "set_name": "Starter Deck: Yugi Reloaded",
+    "release_date": null
+  },
+  {
+    "id": "gld1",
+    "game": "yugioh",
+    "set_name": "Gold Series",
+    "release_date": null
+  },
+  {
+    "id": "mrd",
+    "game": "yugioh",
+    "set_name": "Metal Raiders",
+    "release_date": null
+  },
+  {
+    "id": "sbc1",
+    "game": "yugioh",
+    "set_name": "Speed Duel: Streets of Battle City",
+    "release_date": null
+  },
+  {
+    "id": "sdj",
+    "game": "yugioh",
+    "set_name": "Starter Deck: Joey",
+    "release_date": null
+  },
+  {
+    "id": "sd4",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Fury from the Deep",
+    "release_date": null
+  },
+  {
+    "id": "bp03",
+    "game": "yugioh",
+    "set_name": "Battle Pack 3: Monster League",
+    "release_date": null
+  },
+  {
+    "id": "dt02",
+    "game": "yugioh",
+    "set_name": "Duel Terminal 2",
+    "release_date": null
+  },
+  {
+    "id": "sbsc",
+    "game": "yugioh",
+    "set_name": "Speed Duel: Scars of Battle",
+    "release_date": null
+  },
+  {
+    "id": "pgd",
+    "game": "yugioh",
+    "set_name": "Pharaonic Guardian",
+    "release_date": null
+  },
+  {
+    "id": "suda",
+    "game": "yugioh",
+    "set_name": "Supreme Darkness",
+    "release_date": null
+  },
+  {
+    "id": "dr1",
+    "game": "yugioh",
+    "set_name": "Dark Revelation Volume 1",
+    "release_date": null
+  },
+  {
+    "id": "ss01",
+    "game": "yugioh",
+    "set_name": "Speed Duel Starter Decks: Destiny Masters",
+    "release_date": null
+  },
+  {
+    "id": "dcr",
+    "game": "yugioh",
+    "set_name": "Dark Crisis",
+    "release_date": null
+  },
+  {
+    "id": "lcjw",
+    "game": "yugioh",
+    "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+    "release_date": null
+  },
+  {
+    "id": "cp03",
+    "game": "yugioh",
+    "set_name": "Champion Pack: Game Three",
+    "release_date": null
+  },
+  {
+    "id": "dr3",
+    "game": "yugioh",
+    "set_name": "Dark Revelation Volume 3",
+    "release_date": null
+  },
+  {
+    "id": "fet",
+    "game": "yugioh",
+    "set_name": "Flaming Eternity",
+    "release_date": null
+  },
+  {
+    "id": "lcyw",
+    "game": "yugioh",
+    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+    "release_date": null
+  },
+  {
+    "id": "lehd",
+    "game": "yugioh",
+    "set_name": "Legendary Hero Decks",
+    "release_date": null
+  },
+  {
+    "id": "ysds",
+    "game": "yugioh",
+    "set_name": "Starter Deck: Syrus Truesdale",
+    "release_date": null
+  },
+  {
+    "id": "lod",
+    "game": "yugioh",
+    "set_name": "Legacy of Darkness",
+    "release_date": null
+  },
+  {
+    "id": "bp02",
+    "game": "yugioh",
+    "set_name": "Battle Pack 2: War of the Giants",
+    "release_date": null
+  },
+  {
+    "id": "dp1",
+    "game": "yugioh",
+    "set_name": "Duelist Pack: Jaden Yuki",
+    "release_date": null
+  },
+  {
+    "id": "ioc",
+    "game": "yugioh",
+    "set_name": "Invasion of Chaos",
+    "release_date": null
+  },
+  {
+    "id": "sgx1",
+    "game": "yugioh",
+    "set_name": "Speed Duel GX: Duel Academy Box",
+    "release_date": null
+  },
+  {
+    "id": "ys14",
+    "game": "yugioh",
+    "set_name": "Super Starter: Space-Time Showdown",
+    "release_date": null
+  },
+  {
+    "id": "blc1",
+    "game": "yugioh",
+    "set_name": "Battles of Legend: Chapter 1",
+    "release_date": null
+  },
+  {
+    "id": "dusa",
+    "game": "yugioh",
+    "set_name": "Duelist Saga",
+    "release_date": null
+  },
+  {
+    "id": "genf",
+    "game": "yugioh",
+    "set_name": "Generation Force",
+    "release_date": null
+  },
+  {
+    "id": "sdhs",
+    "game": "yugioh",
+    "set_name": "HERO Strike Structure Deck",
+    "release_date": null
+  },
+  {
+    "id": "led6",
+    "game": "yugioh",
+    "set_name": "Legendary Duelists: Magical Hero",
+    "release_date": null
+  },
+  {
+    "id": "lds3",
+    "game": "yugioh",
+    "set_name": "Legendary Duelists: Season 3",
+    "release_date": null
+  },
+  {
+    "id": "mama",
+    "game": "yugioh",
+    "set_name": "Magnificent Mavens",
+    "release_date": null
+  },
+  {
+    "id": "ra04",
+    "game": "yugioh",
+    "set_name": "Quarter Century Stampede",
+    "release_date": null
+  },
+  {
+    "id": "sgx2",
+    "game": "yugioh",
+    "set_name": "Speed Duel GX: Midterm Paradox",
+    "release_date": null
+  },
+  {
+    "id": "db",
+    "game": "yugioh",
+    "set_name": "Dark Beginning 2",
+    "release_date": null
+  },
+  {
+    "id": "db2",
+    "game": "yugioh",
+    "set_name": "Dark Beginning 2",
+    "release_date": null
+  },
+  {
+    "id": "hl1",
+    "game": "yugioh",
+    "set_name": "Hobby League 1 participation cards B",
+    "release_date": null
+  },
+  {
+    "id": "ledu",
+    "game": "yugioh",
+    "set_name": "Legendary Duelists",
+    "release_date": null
+  },
+  {
+    "id": "lds1",
+    "game": "yugioh",
+    "set_name": "Legendary Duelists: Season 1",
+    "release_date": null
+  },
+  {
+    "id": "sdre",
+    "game": "yugioh",
+    "set_name": "Realm of the Sea Emperor Structure Deck",
+    "release_date": null
+  },
+  {
+    "id": "anpr",
+    "game": "yugioh",
+    "set_name": "Ancient Prophecy",
+    "release_date": null
+  },
+  {
+    "id": "stp5",
+    "game": "yugioh",
+    "set_name": "Speed Duel Tournament Pack 5",
+    "release_date": null
+  },
+  {
+    "id": "crv",
+    "game": "yugioh",
+    "set_name": "Cybernetic Revolution",
+    "release_date": null
+  },
+  {
+    "id": "dr04",
+    "game": "yugioh",
+    "set_name": "Dark Revelation Volume 4",
+    "release_date": null
+  },
+  {
+    "id": "cyac",
+    "game": "yugioh",
+    "set_name": "Cyberstorm Access",
+    "release_date": null
+  },
+  {
+    "id": "led7",
+    "game": "yugioh",
+    "set_name": "Legendary Duelists: Rage of Ra",
+    "release_date": null
+  },
+  {
+    "id": "sece",
+    "game": "yugioh",
+    "set_name": "Secrets of Eternity",
+    "release_date": null
+  },
+  {
+    "id": "sddc",
+    "game": "yugioh",
+    "set_name": "Dragons Collide Structure Deck",
+    "release_date": null
+  },
+  {
+    "id": "sdrl",
+    "game": "yugioh",
+    "set_name": "Rise of the Dragon Lords Structure Deck",
+    "release_date": null
+  },
+  {
+    "id": "sr02",
+    "game": "yugioh",
+    "set_name": "Rise of the True Dragons Structure Deck",
+    "release_date": null
+  },
+  {
+    "id": "sdbe",
+    "game": "yugioh",
+    "set_name": "Saga of Blue-Eyes White Dragon Structure Deck",
+    "release_date": null
+  },
+  {
+    "id": "lckc",
+    "game": "yugioh",
+    "set_name": "Legendary Collection Kaiba Mega Pack",
+    "release_date": null
+  },
+  {
+    "id": "sdks",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Seto Kaiba",
+    "release_date": null
+  },
+  {
+    "id": "rds",
+    "game": "yugioh",
+    "set_name": "Rise of Destiny",
+    "release_date": null
+  },
+  {
+    "id": "mztm",
+    "game": "yugioh",
+    "set_name": "Maze of the Master",
+    "release_date": null
+  },
+  {
+    "id": "liov",
+    "game": "yugioh",
+    "set_name": "Lightning Overdrive",
+    "release_date": null
+  },
+  {
+    "id": "alin",
+    "game": "yugioh",
+    "set_name": "Alliance Insight",
+    "release_date": null
+  },
+  {
+    "id": "etco",
+    "game": "yugioh",
+    "set_name": "Eternity Code",
+    "release_date": null
+  },
+  {
+    "id": "igas",
+    "game": "yugioh",
+    "set_name": "Ignition Assault",
+    "release_date": null
+  },
+  {
+    "id": "mp22",
+    "game": "yugioh",
+    "set_name": "2022 Tin of the Pharaoh's Gods",
+    "release_date": null
+  },
+  {
+    "id": "brol",
+    "game": "yugioh",
+    "set_name": "Brothers of Legend",
+    "release_date": null
+  },
+  {
+    "id": "dp10",
+    "game": "yugioh",
+    "set_name": "Duelist Pack: Yusei 3",
+    "release_date": null
+  },
+  {
+    "id": "drev",
+    "game": "yugioh",
+    "set_name": "Duelist Revolution",
+    "release_date": null
+  },
+  {
+    "id": "wgrt",
+    "game": "yugioh",
+    "set_name": "War of the Giants Reinforcements",
+    "release_date": null
+  },
+  {
+    "id": "bpw2",
+    "game": "yugioh",
+    "set_name": "War of the Giants: Round 2",
+    "release_date": null
+  },
+  {
+    "id": "cdip",
+    "game": "yugioh",
+    "set_name": "Cyberdark Impact",
+    "release_date": null
+  },
+  {
+    "id": "op13",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 13",
+    "release_date": null
+  },
+  {
+    "id": "mp20",
+    "game": "yugioh",
+    "set_name": "2020 Tin of Lost Memories Mega Pack",
+    "release_date": null
+  },
+  {
+    "id": "chim",
+    "game": "yugioh",
+    "set_name": "Chaos Impact",
+    "release_date": null
+  },
+  {
+    "id": "vasm",
+    "game": "yugioh",
+    "set_name": "Valiant Smashers",
+    "release_date": null
+  },
+  {
+    "id": "ra02",
+    "game": "yugioh",
+    "set_name": "25th Anniversary Rarity Collection II",
+    "release_date": null
+  },
+  {
+    "id": "duad",
+    "game": "yugioh",
+    "set_name": "Duelist's Advance",
+    "release_date": null
+  },
+  {
+    "id": "ledd",
+    "game": "yugioh",
+    "set_name": "Legendary Dragon Decks",
+    "release_date": null
+  },
+  {
+    "id": "sod",
+    "game": "yugioh",
+    "set_name": "Soul of the Duelist",
+    "release_date": null
+  },
+  {
+    "id": "op26",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 26",
+    "release_date": null
+  },
+  {
+    "id": "pgl2",
+    "game": "yugioh",
+    "set_name": "Premium Gold: Return of the Bling",
+    "release_date": null
+  },
+  {
+    "id": "sr13",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Dark World",
+    "release_date": null
+  },
+  {
+    "id": "sr06",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Lair of Darkness",
+    "release_date": null
+  },
+  {
+    "id": "sdck",
+    "game": "yugioh",
+    "set_name": "Structure Deck: The Crimson King",
+    "release_date": null
+  },
+  {
+    "id": "tama",
+    "game": "yugioh",
+    "set_name": "Tactical Masters",
+    "release_date": null
+  },
+  {
+    "id": "blmm",
+    "game": "yugioh",
+    "set_name": "Battles of Legend: Monster Mayhem",
+    "release_date": null
+  },
+  {
+    "id": "core",
+    "game": "yugioh",
+    "set_name": "Clash of Rebellions",
+    "release_date": null
+  },
+  {
+    "id": "gaov",
+    "game": "yugioh",
+    "set_name": "Galactic Overlord",
+    "release_date": null
+  },
+  {
+    "id": "sgx3",
+    "game": "yugioh",
+    "set_name": "Speed Duel GX: Duelists of Shadows",
+    "release_date": null
+  },
+  {
+    "id": "sbcb",
+    "game": "yugioh",
+    "set_name": "Speed Duel: Battle City Box",
+    "release_date": null
+  },
+  {
+    "id": "mzmu",
+    "game": "yugioh",
+    "set_name": "Maze of Muertos",
+    "release_date": null
+  },
+  {
+    "id": "sdrr",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Rokket Revolt",
+    "release_date": null
+  },
+  {
+    "id": "lds2",
+    "game": "yugioh",
+    "set_name": "Legendary Duelists: Season 2",
+    "release_date": null
+  },
+  {
+    "id": "led3",
+    "game": "yugioh",
+    "set_name": "Legendary Duelists: White Dragon Abyss",
+    "release_date": null
+  },
+  {
+    "id": "bllr",
+    "game": "yugioh",
+    "set_name": "Battles of Legend: Light's Revenge",
+    "release_date": null
+  },
+  {
+    "id": "op21",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 21",
+    "release_date": null
+  },
+  {
+    "id": "deso",
+    "game": "yugioh",
+    "set_name": "Destiny Soldiers",
+    "release_date": null
+  },
+  {
+    "id": "duov",
+    "game": "yugioh",
+    "set_name": "Duel Overload",
+    "release_date": null
+  },
+  {
+    "id": "phhy",
+    "game": "yugioh",
+    "set_name": "Photon Hypernova",
+    "release_date": null
+  },
+  {
+    "id": "mp18",
+    "game": "yugioh",
+    "set_name": "2018 Mega-Tin Mega Pack",
+    "release_date": null
+  },
+  {
+    "id": "cotd",
+    "game": "yugioh",
+    "set_name": "Code of the Duelist",
+    "release_date": null
+  },
+  {
+    "id": "abyr",
+    "game": "yugioh",
+    "set_name": "Abyss Rising",
+    "release_date": null
+  },
+  {
+    "id": "crbr",
+    "game": "yugioh",
+    "set_name": "Crossover Breakers",
+    "release_date": null
+  },
+  {
+    "id": "dude",
+    "game": "yugioh",
+    "set_name": "Duel Devastator",
+    "release_date": null
+  },
+  {
+    "id": "op20",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 20",
+    "release_date": null
+  },
+  {
+    "id": "pgl3",
+    "game": "yugioh",
+    "set_name": "Premium Gold: Infinite Gold",
+    "release_date": null
+  },
+  {
+    "id": "thsf",
+    "game": "yugioh",
+    "set_name": "The Secret Forces",
+    "release_date": null
+  },
+  {
+    "id": "bode",
+    "game": "yugioh",
+    "set_name": "Burst of Destiny",
+    "release_date": null
+  },
+  {
+    "id": "led9",
+    "game": "yugioh",
+    "set_name": "Legendary Duelists: Duels From the Deep",
+    "release_date": null
+  },
+  {
+    "id": "ra03",
+    "game": "yugioh",
+    "set_name": "Quarter Century Bonanza",
+    "release_date": null
+  },
+  {
+    "id": "cp02",
+    "game": "yugioh",
+    "set_name": "Champion Pack: Game Two",
+    "release_date": null
+  },
+  {
+    "id": "dt06",
+    "game": "yugioh",
+    "set_name": "Duel Terminal 6b",
+    "release_date": null
+  },
+  {
+    "id": "cmc",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! Capsule Monster Coliseum promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "mp16",
+    "game": "yugioh",
+    "set_name": "2016 Mega-Tin Mega Pack",
+    "release_date": null
+  },
+  {
+    "id": "cros",
+    "game": "yugioh",
+    "set_name": "Crossed Souls",
+    "release_date": null
+  },
+  {
+    "id": "cblz",
+    "game": "yugioh",
+    "set_name": "Cosmo Blazer",
+    "release_date": null
+  },
+  {
+    "id": "mp14",
+    "game": "yugioh",
+    "set_name": "2014 Mega-Tin Mega Pack",
+    "release_date": null
+  },
+  {
+    "id": "ltgy",
+    "game": "yugioh",
+    "set_name": "Lord of the Tachyon Galaxy",
+    "release_date": null
+  },
+  {
+    "id": "mp25",
+    "game": "yugioh",
+    "set_name": "2025 Mega-Pack Tin",
+    "release_date": null
+  },
+  {
+    "id": "rota",
+    "game": "yugioh",
+    "set_name": "Rage of the Abyss",
+    "release_date": null
+  },
+  {
+    "id": "bp01",
+    "game": "yugioh",
+    "set_name": "Battle Pack: Epic Dawn",
+    "release_date": null
+  },
+  {
+    "id": "taev",
+    "game": "yugioh",
+    "set_name": "Tactical Evolution",
+    "release_date": null
+  },
+  {
+    "id": "tu05",
+    "game": "yugioh",
+    "set_name": "Turbo Pack: Booster Five",
+    "release_date": null
+  },
+  {
+    "id": "l5dd",
+    "game": "yugioh",
+    "set_name": "Legendary 5D&apos;s Decks",
+    "release_date": null
+  },
+  {
+    "id": "maze",
+    "game": "yugioh",
+    "set_name": "Maze of Memories",
+    "release_date": null
+  },
+  {
+    "id": "sdse",
+    "game": "yugioh",
+    "set_name": "Synchron Extreme Structure Deck",
+    "release_date": null
+  },
+  {
+    "id": "ztin",
+    "game": "yugioh",
+    "set_name": "Zexal Collection Tin",
+    "release_date": null
+  },
+  {
+    "id": "blcr",
+    "game": "yugioh",
+    "set_name": "Battles of Legend: Crystal Revenge",
+    "release_date": null
+  },
+  {
+    "id": "mged",
+    "game": "yugioh",
+    "set_name": "Maximum Gold: El Dorado",
+    "release_date": null
+  },
+  {
+    "id": "bltr",
+    "game": "yugioh",
+    "set_name": "Battles of Legend: Terminal Revenge",
+    "release_date": null
+  },
+  {
+    "id": "sp13",
+    "game": "yugioh",
+    "set_name": "Star Pack 2013",
+    "release_date": null
+  },
+  {
+    "id": "ys13",
+    "game": "yugioh",
+    "set_name": "Super Starter: V for Victory",
+    "release_date": null
+  },
+  {
+    "id": "op28",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 28",
+    "release_date": null
+  },
+  {
+    "id": "dl8",
+    "game": "yugioh",
+    "set_name": "Duelist League Series 8 participation card",
+    "release_date": null
+  },
+  {
+    "id": "mil1",
+    "game": "yugioh",
+    "set_name": "Millennium Pack",
+    "release_date": null
+  },
+  {
+    "id": "soi",
+    "game": "yugioh",
+    "set_name": "Shadow of Infinity: Special Edition",
+    "release_date": null
+  },
+  {
+    "id": "sdma",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Marik (TCG)",
+    "release_date": null
+  },
+  {
+    "id": "dds",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! Dark Duel Stories promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "sdd",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "ptdn",
+    "game": "yugioh",
+    "set_name": "Phantom Darkness",
+    "release_date": null
+  },
+  {
+    "id": "phsw",
+    "game": "yugioh",
+    "set_name": "Photon Shockwave",
+    "release_date": null
+  },
+  {
+    "id": "tdil",
+    "game": "yugioh",
+    "set_name": "The Dark Illusion",
+    "release_date": null
+  },
+  {
+    "id": "sesl",
+    "game": "yugioh",
+    "set_name": "Secret Slayers",
+    "release_date": null
+  },
+  {
+    "id": "op25",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 25",
+    "release_date": null
+  },
+  {
+    "id": "blmr",
+    "game": "yugioh",
+    "set_name": "Battles of Legend: Monstrous Revenge",
+    "release_date": null
+  },
+  {
+    "id": "dt01",
+    "game": "yugioh",
+    "set_name": "Duel Terminal 1",
+    "release_date": null
+  },
+  {
+    "id": "mfc",
+    "game": "yugioh",
+    "set_name": "Magician's Force",
+    "release_date": null
+  },
+  {
+    "id": "ss03",
+    "game": "yugioh",
+    "set_name": "Speed Duel Starter Decks: Ultimate Predators",
+    "release_date": null
+  },
+  {
+    "id": "stp2",
+    "game": "yugioh",
+    "set_name": "Speed Duel Tournament Pack 2",
+    "release_date": null
+  },
+  {
+    "id": "dpct",
+    "game": "yugioh",
+    "set_name": "Duelist Pack Collection Tin 2010",
+    "release_date": null
+  },
+  {
+    "id": "dp09",
+    "game": "yugioh",
+    "set_name": "Duelist Pack: Yusei 2",
+    "release_date": null
+  },
+  {
+    "id": "lc5d",
+    "game": "yugioh",
+    "set_name": "Legendary Collection 5D's Mega Pack",
+    "release_date": null
+  },
+  {
+    "id": "abpf",
+    "game": "yugioh",
+    "set_name": "Absolute Powerforce",
+    "release_date": null
+  },
+  {
+    "id": "op01",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 1",
+    "release_date": null
+  },
+  {
+    "id": "redu",
+    "game": "yugioh",
+    "set_name": "Return of the Duelist",
+    "release_date": null
+  },
+  {
+    "id": "shva",
+    "game": "yugioh",
+    "set_name": "Shadows in Valhalla",
+    "release_date": null
+  },
+  {
+    "id": "sdcb",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Legend of the Crystal Beasts",
+    "release_date": null
+  },
+  {
+    "id": "ap05",
+    "game": "yugioh",
+    "set_name": "Astral Pack Five",
+    "release_date": null
+  },
+  {
+    "id": "gfp2",
+    "game": "yugioh",
+    "set_name": "Ghosts From the Past: The 2nd Haunting",
+    "release_date": null
+  },
+  {
+    "id": "ss04",
+    "game": "yugioh",
+    "set_name": "Speed Duel Starter Decks: Match of the Millennium",
+    "release_date": null
+  },
+  {
+    "id": "stp3",
+    "game": "yugioh",
+    "set_name": "Speed Duel Tournament Pack 3",
+    "release_date": null
+  },
+  {
+    "id": "tu04",
+    "game": "yugioh",
+    "set_name": "Turbo Pack: Booster Four",
+    "release_date": null
+  },
+  {
+    "id": "bosh",
+    "game": "yugioh",
+    "set_name": "Breakers of Shadow",
+    "release_date": null
+  },
+  {
+    "id": "gld3",
+    "game": "yugioh",
+    "set_name": "Gold Series 3",
+    "release_date": null
+  },
+  {
+    "id": "info",
+    "game": "yugioh",
+    "set_name": "The Infinite Forbidden",
+    "release_date": null
+  },
+  {
+    "id": "dama",
+    "game": "yugioh",
+    "set_name": "Dawn of Majesty",
+    "release_date": null
+  },
+  {
+    "id": "dem3",
+    "game": "yugioh",
+    "set_name": "Demo Deck 2016",
+    "release_date": null
+  },
+  {
+    "id": "ct13",
+    "game": "yugioh",
+    "set_name": "2016 Mega-Tins",
+    "release_date": null
+  },
+  {
+    "id": "blar",
+    "game": "yugioh",
+    "set_name": "Battles of Legend: Armageddon",
+    "release_date": null
+  },
+  {
+    "id": "dp11",
+    "game": "yugioh",
+    "set_name": "Duelist Pack: Crow",
+    "release_date": null
+  },
+  {
+    "id": "rgbt",
+    "game": "yugioh",
+    "set_name": "Raging Battle",
+    "release_date": null
+  },
+  {
+    "id": "mp19",
+    "game": "yugioh",
+    "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+    "release_date": null
+  },
+  {
+    "id": "sofu",
+    "game": "yugioh",
+    "set_name": "Soul Fusion",
+    "release_date": null
+  },
+  {
+    "id": "phni",
+    "game": "yugioh",
+    "set_name": "Phantom Nightmare",
+    "release_date": null
+  },
+  {
+    "id": "egs1",
+    "game": "yugioh",
+    "set_name": "Egyptian God Deck: Slifer the Sky Dragon",
+    "release_date": null
+  },
+  {
+    "id": "orcs",
+    "game": "yugioh",
+    "set_name": "Order of Chaos",
+    "release_date": null
+  },
+  {
+    "id": "sp18",
+    "game": "yugioh",
+    "set_name": "Star Pack VRAINS",
+    "release_date": null
+  },
+  {
+    "id": "sdls",
+    "game": "yugioh",
+    "set_name": "Lost Sanctuary Structure Deck",
+    "release_date": null
+  },
+  {
+    "id": "sr05",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Wave of Light",
+    "release_date": null
+  },
+  {
+    "id": "tp6",
+    "game": "yugioh",
+    "set_name": "Tournament Pack 6",
+    "release_date": null
+  },
+  {
+    "id": "geim",
+    "game": "yugioh",
+    "set_name": "Genesis Impact",
+    "release_date": null
+  },
+  {
+    "id": "lede",
+    "game": "yugioh",
+    "set_name": "Legacy of Destruction",
+    "release_date": null
+  },
+  {
+    "id": "cibr",
+    "game": "yugioh",
+    "set_name": "Circuit Break",
+    "release_date": null
+  },
+  {
+    "id": "tshd",
+    "game": "yugioh",
+    "set_name": "The Shining Darkness",
+    "release_date": null
+  },
+  {
+    "id": "mp23",
+    "game": "yugioh",
+    "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+    "release_date": null
+  },
+  {
+    "id": "difo",
+    "game": "yugioh",
+    "set_name": "Dimension Force",
+    "release_date": null
+  },
+  {
+    "id": "pote",
+    "game": "yugioh",
+    "set_name": "Power of the Elements",
+    "release_date": null
+  },
+  {
+    "id": "sdaz",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Albaz Strike",
+    "release_date": null
+  },
+  {
+    "id": "tu06",
+    "game": "yugioh",
+    "set_name": "Turbo Pack: Booster Six",
+    "release_date": null
+  },
+  {
+    "id": "yr05",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! R Volume 5 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "angu",
+    "game": "yugioh",
+    "set_name": "Ancient Guardians",
+    "release_date": null
+  },
+  {
+    "id": "fuen",
+    "game": "yugioh",
+    "set_name": "Fusion Enforcers",
+    "release_date": null
+  },
+  {
+    "id": "mago",
+    "game": "yugioh",
+    "set_name": "Maximum Gold",
+    "release_date": null
+  },
+  {
+    "id": "mzmi",
+    "game": "yugioh",
+    "set_name": "Maze of Millennia",
+    "release_date": null
+  },
+  {
+    "id": "ys15",
+    "game": "yugioh",
+    "set_name": "2-Player Starter Deck: Yuya & Declan",
+    "release_date": null
+  },
+  {
+    "id": "ldk2",
+    "game": "yugioh",
+    "set_name": "Legendary Decks II",
+    "release_date": null
+  },
+  {
+    "id": "sdli",
+    "game": "yugioh",
+    "set_name": "Realm of Light Structure Deck",
+    "release_date": null
+  },
+  {
+    "id": "yskr",
+    "game": "yugioh",
+    "set_name": "Starter Deck: Kaiba Reloaded",
+    "release_date": null
+  },
+  {
+    "id": "ys12",
+    "game": "yugioh",
+    "set_name": "Starter Deck: Xyz Symphony",
+    "release_date": null
+  },
+  {
+    "id": "bach",
+    "game": "yugioh",
+    "set_name": "Battle of Chaos",
+    "release_date": null
+  },
+  {
+    "id": "crms",
+    "game": "yugioh",
+    "set_name": "Crimson Crisis",
+    "release_date": null
+  },
+  {
+    "id": "op16",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 16",
+    "release_date": null
+  },
+  {
+    "id": "potd",
+    "game": "yugioh",
+    "set_name": "Power of the Duelist",
+    "release_date": null
+  },
+  {
+    "id": "cp08",
+    "game": "yugioh",
+    "set_name": "Champion Pack: Game Eight",
+    "release_date": null
+  },
+  {
+    "id": "blhr",
+    "game": "yugioh",
+    "set_name": "Battles of Legend: Hero's Revenge",
+    "release_date": null
+  },
+  {
+    "id": "op11",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 11",
+    "release_date": null
+  },
+  {
+    "id": "ss02",
+    "game": "yugioh",
+    "set_name": "Speed Duel Starter Decks: Duelists of Tomorrow",
+    "release_date": null
+  },
+  {
+    "id": "tu08",
+    "game": "yugioh",
+    "set_name": "Turbo Pack: Booster Eight",
+    "release_date": null
+  },
+  {
+    "id": "wcpp",
+    "game": "yugioh",
+    "set_name": "World Championship 2010 Card Pack",
+    "release_date": null
+  },
+  {
+    "id": "wp11",
+    "game": "yugioh",
+    "set_name": "World Championship 2011 Card Pack",
+    "release_date": null
+  },
+  {
+    "id": "dt04",
+    "game": "yugioh",
+    "set_name": "Duel Terminal 4",
+    "release_date": null
+  },
+  {
+    "id": "dasa",
+    "game": "yugioh",
+    "set_name": "Dark Saviors",
+    "release_date": null
+  },
+  {
+    "id": "sdgu",
+    "game": "yugioh",
+    "set_name": "Gates of the Underworld Structure Deck",
+    "release_date": null
+  },
+  {
+    "id": "sdpd",
+    "game": "yugioh",
+    "set_name": "Pendulum Domination Structure Deck",
+    "release_date": null
+  },
+  {
+    "id": "ss05",
+    "game": "yugioh",
+    "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+    "release_date": null
+  },
+  {
+    "id": "sdsh",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Shaddoll Showdown",
+    "release_date": null
+  },
+  {
+    "id": "wisu",
+    "game": "yugioh",
+    "set_name": "Wild Survivors",
+    "release_date": null
+  },
+  {
+    "id": "led4",
+    "game": "yugioh",
+    "set_name": "Legendary Duelists: Sisters of the Rose",
+    "release_date": null
+  },
+  {
+    "id": "lart",
+    "game": "yugioh",
+    "set_name": "The Lost Art Promotion (series)",
+    "release_date": null
+  },
+  {
+    "id": "ha02",
+    "game": "yugioh",
+    "set_name": "Hidden Arsenal 2",
+    "release_date": null
+  },
+  {
+    "id": "hac1",
+    "game": "yugioh",
+    "set_name": "Hidden Arsenal: Chapter 1",
+    "release_date": null
+  },
+  {
+    "id": "ct10",
+    "game": "yugioh",
+    "set_name": "2013 Collectible Tins Wave 1",
+    "release_date": null
+  },
+  {
+    "id": "dtp1",
+    "game": "yugioh",
+    "set_name": "Duel Terminal - Preview Wave 2",
+    "release_date": null
+  },
+  {
+    "id": "ha01",
+    "game": "yugioh",
+    "set_name": "Hidden Arsenal",
+    "release_date": null
+  },
+  {
+    "id": "tu07",
+    "game": "yugioh",
+    "set_name": "Turbo Pack: Booster Seven",
+    "release_date": null
+  },
+  {
+    "id": "stas",
+    "game": "yugioh",
+    "set_name": "2-Player Starter Set",
+    "release_date": null
+  },
+  {
+    "id": "dt03",
+    "game": "yugioh",
+    "set_name": "Duel Terminal 3",
+    "release_date": null
+  },
+  {
+    "id": "ha03",
+    "game": "yugioh",
+    "set_name": "Hidden Arsenal 3",
+    "release_date": null
+  },
+  {
+    "id": "op03",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 3",
+    "release_date": null
+  },
+  {
+    "id": "phre",
+    "game": "yugioh",
+    "set_name": "Phantom Revenge",
+    "release_date": null
+  },
+  {
+    "id": "stbl",
+    "game": "yugioh",
+    "set_name": "Starstrike Blast",
+    "release_date": null
+  },
+  {
+    "id": "sast",
+    "game": "yugioh",
+    "set_name": "Savage Strike",
+    "release_date": null
+  },
+  {
+    "id": "lval",
+    "game": "yugioh",
+    "set_name": "Legacy of the Valiant",
+    "release_date": null
+  },
+  {
+    "id": "agov",
+    "game": "yugioh",
+    "set_name": "Age of Overlord",
+    "release_date": null
+  },
+  {
+    "id": "sdmy",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Yugi Muto",
+    "release_date": null
+  },
+  {
+    "id": "dor",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! The Duelists of the Roses promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "ygld",
+    "game": "yugioh",
+    "set_name": "Yugi's Legendary Decks",
+    "release_date": null
+  },
+  {
+    "id": "ra01",
+    "game": "yugioh",
+    "set_name": "25th Anniversary Rarity Collection",
+    "release_date": null
+  },
+  {
+    "id": "phra",
+    "game": "yugioh",
+    "set_name": "Phantom Rage",
+    "release_date": null
+  },
+  {
+    "id": "sr14",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Fire Kings",
+    "release_date": null
+  },
+  {
+    "id": "dane",
+    "game": "yugioh",
+    "set_name": "Dark Neostorm",
+    "release_date": null
+  },
+  {
+    "id": "flod",
+    "game": "yugioh",
+    "set_name": "Flames of Destruction",
+    "release_date": null
+  },
+  {
+    "id": "blrr",
+    "game": "yugioh",
+    "set_name": "Battles of Legend: Relentless Revenge",
+    "release_date": null
+  },
+  {
+    "id": "exfo",
+    "game": "yugioh",
+    "set_name": "Extreme Force",
+    "release_date": null
+  },
+  {
+    "id": "21cc",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! TCG Remote Duel Extravaganza participation card",
+    "release_date": null
+  },
+  {
+    "id": "blvo",
+    "game": "yugioh",
+    "set_name": "Blazing Vortex",
+    "release_date": null
+  },
+  {
+    "id": "mp17",
+    "game": "yugioh",
+    "set_name": "2017 Mega-Tin Mega Pack",
+    "release_date": null
+  },
+  {
+    "id": "pevo",
+    "game": "yugioh",
+    "set_name": "Pendulum Evolution",
+    "release_date": null
+  },
+  {
+    "id": "ap06",
+    "game": "yugioh",
+    "set_name": "Astral Pack Six",
+    "release_date": null
+  },
+  {
+    "id": "cp05",
+    "game": "yugioh",
+    "set_name": "Champion Pack: Game Five",
+    "release_date": null
+  },
+  {
+    "id": "lon",
+    "game": "yugioh",
+    "set_name": "Labyrinth of Nightmare",
+    "release_date": null
+  },
+  {
+    "id": "dabl",
+    "game": "yugioh",
+    "set_name": "Darkwing Blast",
+    "release_date": null
+  },
+  {
+    "id": "dlg1",
+    "game": "yugioh",
+    "set_name": "Dark Legends",
+    "release_date": null
+  },
+  {
+    "id": "dt07",
+    "game": "yugioh",
+    "set_name": "Duel Terminal 7a",
+    "release_date": null
+  },
+  {
+    "id": "rp01",
+    "game": "yugioh",
+    "set_name": "Retro Pack",
+    "release_date": null
+  },
+  {
+    "id": "sp1",
+    "game": "yugioh",
+    "set_name": "The Lost Millennium Sneak Peek Participation Card",
+    "release_date": null
+  },
+  {
+    "id": "op06",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 6",
+    "release_date": null
+  },
+  {
+    "id": "sbls",
+    "game": "yugioh",
+    "set_name": "Speed Duel: Arena of Lost Souls",
+    "release_date": null
+  },
+  {
+    "id": "tp7",
+    "game": "yugioh",
+    "set_name": "Tournament Pack 7",
+    "release_date": null
+  },
+  {
+    "id": "sbad",
+    "game": "yugioh",
+    "set_name": "Speed Duel: Attack from the Deep",
+    "release_date": null
+  },
+  {
+    "id": "mrl",
+    "game": "yugioh",
+    "set_name": "Magic Ruler",
+    "release_date": null
+  },
+  {
+    "id": "srl",
+    "game": "yugioh",
+    "set_name": "Spell Ruler",
+    "release_date": null
+  },
+  {
+    "id": "op15",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 15",
+    "release_date": null
+  },
+  {
+    "id": "shvi",
+    "game": "yugioh",
+    "set_name": "Shining Victories",
+    "release_date": null
+  },
+  {
+    "id": "figa",
+    "game": "yugioh",
+    "set_name": "Fists of the Gadgets",
+    "release_date": null
+  },
+  {
+    "id": "mdp2",
+    "game": "yugioh",
+    "set_name": "McDonald's Promotional Cards 2",
+    "release_date": null
+  },
+  {
+    "id": "cp06",
+    "game": "yugioh",
+    "set_name": "Champion Pack: Game Six",
+    "release_date": null
+  },
+  {
+    "id": "drlg",
+    "game": "yugioh",
+    "set_name": "Dragons of Legend",
+    "release_date": null
+  },
+  {
+    "id": "dlcs",
+    "game": "yugioh",
+    "set_name": "Dragons of Legend: The Complete Series",
+    "release_date": null
+  },
+  {
+    "id": "drl3",
+    "game": "yugioh",
+    "set_name": "Dragons of Legend: Unleashed",
+    "release_date": null
+  },
+  {
+    "id": "sbtk",
+    "game": "yugioh",
+    "set_name": "Speed Duel: Trials of the Kingdom",
+    "release_date": null
+  },
+  {
+    "id": "batt",
+    "game": "yugioh",
+    "set_name": "Battle Pack Tournament Prize Cards",
+    "release_date": null
+  },
+  {
+    "id": "dp07",
+    "game": "yugioh",
+    "set_name": "Duelist Pack: Jesse Anderson",
+    "release_date": null
+  },
+  {
+    "id": "lcgx",
+    "game": "yugioh",
+    "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+    "release_date": null
+  },
+  {
+    "id": "rymp",
+    "game": "yugioh",
+    "set_name": "Ra Yellow Mega Pack",
+    "release_date": null
+  },
+  {
+    "id": "sdy",
+    "game": "yugioh",
+    "set_name": "Starter Deck: Yugi",
+    "release_date": null
+  },
+  {
+    "id": "ct06",
+    "game": "yugioh",
+    "set_name": "Collectible Tins 2009 Wave 1",
+    "release_date": null
+  },
+  {
+    "id": "ha04",
+    "game": "yugioh",
+    "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+    "release_date": null
+  },
+  {
+    "id": "sd10",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Machine Re-Volt",
+    "release_date": null
+  },
+  {
+    "id": "sr03",
+    "game": "yugioh",
+    "set_name": "Machine Reactor Structure Deck",
+    "release_date": null
+  },
+  {
+    "id": "tlm",
+    "game": "yugioh",
+    "set_name": "The Lost Millennium",
+    "release_date": null
+  },
+  {
+    "id": "prio",
+    "game": "yugioh",
+    "set_name": "Primal Origin",
+    "release_date": null
+  },
+  {
+    "id": "led2",
+    "game": "yugioh",
+    "set_name": "Legendary Duelists: Ancient Millennium",
+    "release_date": null
+  },
+  {
+    "id": "sdgr",
+    "game": "yugioh",
+    "set_name": "Geargia Rampage Structure Deck",
+    "release_date": null
+  },
+  {
+    "id": "dl18",
+    "game": "yugioh",
+    "set_name": "Duelist League 18 participation cards",
+    "release_date": null
+  },
+  {
+    "id": "mf03",
+    "game": "yugioh",
+    "set_name": "Mattel Action Figure promotional cards: Series 3",
+    "release_date": null
+  },
+  {
+    "id": "dupo",
+    "game": "yugioh",
+    "set_name": "Duel Power",
+    "release_date": null
+  },
+  {
+    "id": "rate",
+    "game": "yugioh",
+    "set_name": "Raging Tempest",
+    "release_date": null
+  },
+  {
+    "id": "kc01",
+    "game": "yugioh",
+    "set_name": "25th Anniversary Ultimate Kaiba Set",
+    "release_date": null
+  },
+  {
+    "id": "dpkb",
+    "game": "yugioh",
+    "set_name": "Duelist Pack: Kaiba",
+    "release_date": null
+  },
+  {
+    "id": "sp2",
+    "game": "yugioh",
+    "set_name": "Shadow of Infinity Sneak Peek Participation Card",
+    "release_date": null
+  },
+  {
+    "id": "pgld",
+    "game": "yugioh",
+    "set_name": "Premium Gold",
+    "release_date": null
+  },
+  {
+    "id": "cp07",
+    "game": "yugioh",
+    "set_name": "Champion Pack: Game Seven",
+    "release_date": null
+  },
+  {
+    "id": "dl13",
+    "game": "yugioh",
+    "set_name": "Duelist League 13 participation cards",
+    "release_date": null
+  },
+  {
+    "id": "sdk",
+    "game": "yugioh",
+    "set_name": "Starter Deck: Kaiba",
+    "release_date": null
+  },
+  {
+    "id": "ep1",
+    "game": "yugioh",
+    "set_name": "Exclusive Pack",
+    "release_date": null
+  },
+  {
+    "id": "ego1",
+    "game": "yugioh",
+    "set_name": "Egyptian God Deck: Obelisk the Tormentor",
+    "release_date": null
+  },
+  {
+    "id": "lodt",
+    "game": "yugioh",
+    "set_name": "Light of Destruction",
+    "release_date": null
+  },
+  {
+    "id": "yr04",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! R Volume 4 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "jotl",
+    "game": "yugioh",
+    "set_name": "Judgment of the Light",
+    "release_date": null
+  },
+  {
+    "id": "ycsw",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! Championship Series 2022 prize card",
+    "release_date": null
+  },
+  {
+    "id": "tp3",
+    "game": "yugioh",
+    "set_name": "Tournament Pack: 3rd Season",
+    "release_date": null
+  },
+  {
+    "id": "dpbc",
+    "game": "yugioh",
+    "set_name": "Duelist Pack: Battle City",
+    "release_date": null
+  },
+  {
+    "id": "tu02",
+    "game": "yugioh",
+    "set_name": "Turbo Pack: Booster Two",
+    "release_date": null
+  },
+  {
+    "id": "sr07",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Zombie Horde",
+    "release_date": null
+  },
+  {
+    "id": "pcy",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! Power of Chaos: Yugi the Destiny promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "sdpl",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Powercode Link",
+    "release_date": null
+  },
+  {
+    "id": "ydt1",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! 5D's Duel Transer promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "dood",
+    "game": "yugioh",
+    "set_name": "Doom of Dimensions",
+    "release_date": null
+  },
+  {
+    "id": "rira",
+    "game": "yugioh",
+    "set_name": "Rising Rampage",
+    "release_date": null
+  },
+  {
+    "id": "mvp1",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
+    "release_date": null
+  },
+  {
+    "id": "op14",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 14",
+    "release_date": null
+  },
+  {
+    "id": "sovr",
+    "game": "yugioh",
+    "set_name": "Stardust Overdrive",
+    "release_date": null
+  },
+  {
+    "id": "sdfc",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Freezing Chains",
+    "release_date": null
+  },
+  {
+    "id": "jump",
+    "game": "yugioh",
+    "set_name": "Weekly Shonen Jump April 2017 membership promotional card",
+    "release_date": null
+  },
+  {
+    "id": "jmps",
+    "game": "yugioh",
+    "set_name": "WSJ Jump Pack Fall 2018 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "cp04",
+    "game": "yugioh",
+    "set_name": "Champion Pack: Game Four",
+    "release_date": null
+  },
+  {
+    "id": "sdsc",
+    "game": "yugioh",
+    "set_name": "Spellcaster's Command Structure Deck",
+    "release_date": null
+  },
+  {
+    "id": "sr08",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Order of the Spellcasters",
+    "release_date": null
+  },
+  {
+    "id": "sd6",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Spellcaster's Judgment",
+    "release_date": null
+  },
+  {
+    "id": "myfi",
+    "game": "yugioh",
+    "set_name": "Mystic Fighters",
+    "release_date": null
+  },
+  {
+    "id": "sd8",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Lord of the Storm",
+    "release_date": null
+  },
+  {
+    "id": "pck",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! Power of Chaos: Kaiba the Revenge promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "lob",
+    "game": "yugioh",
+    "set_name": "Legend of Blue Eyes White Dragon",
+    "release_date": null
+  },
+  {
+    "id": "sdp",
+    "game": "yugioh",
+    "set_name": "Starter Deck: Pegasus",
+    "release_date": null
+  },
+  {
+    "id": "drl2",
+    "game": "yugioh",
+    "set_name": "Dragons of Legend 2",
+    "release_date": null
+  },
+  {
+    "id": "ha06",
+    "game": "yugioh",
+    "set_name": "Hidden Arsenal 6: Omega Xyz",
+    "release_date": null
+  },
+  {
+    "id": "dt05",
+    "game": "yugioh",
+    "set_name": "Duel Terminal 5b",
+    "release_date": null
+  },
+  {
+    "id": "ha05",
+    "game": "yugioh",
+    "set_name": "Hidden Arsenal 5: Steelswarm Invasion",
+    "release_date": null
+  },
+  {
+    "id": "shsp",
+    "game": "yugioh",
+    "set_name": "Shadow Specters",
+    "release_date": null
+  },
+  {
+    "id": "ct15",
+    "game": "yugioh",
+    "set_name": "2018 Mega-Tins",
+    "release_date": null
+  },
+  {
+    "id": "kico",
+    "game": "yugioh",
+    "set_name": "King's Court",
+    "release_date": null
+  },
+  {
+    "id": "op10",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 10 (POR)",
+    "release_date": null
+  },
+  {
+    "id": "dl14",
+    "game": "yugioh",
+    "set_name": "Duelist League 14 participation cards",
+    "release_date": null
+  },
+  {
+    "id": "inch",
+    "game": "yugioh",
+    "set_name": "The Infinity Chasers",
+    "release_date": null
+  },
+  {
+    "id": "ct11",
+    "game": "yugioh",
+    "set_name": "2014 Mega-Tins",
+    "release_date": null
+  },
+  {
+    "id": "op22",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 22",
+    "release_date": null
+  },
+  {
+    "id": "ys16",
+    "game": "yugioh",
+    "set_name": "Starter Deck: Yuya",
+    "release_date": null
+  },
+  {
+    "id": "bpro",
+    "game": "yugioh",
+    "set_name": "Burst Protocol",
+    "release_date": null
+  },
+  {
+    "id": "op30",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 30",
+    "release_date": null
+  },
+  {
+    "id": "ct07",
+    "game": "yugioh",
+    "set_name": "Collectible Tins 2010 Wave 1",
+    "release_date": null
+  },
+  {
+    "id": "jmp",
+    "game": "yugioh",
+    "set_name": "Shonen Jump Vol. 3, Issue 1 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "ap04",
+    "game": "yugioh",
+    "set_name": "Astral Pack Four",
+    "release_date": null
+  },
+  {
+    "id": "ap03",
+    "game": "yugioh",
+    "set_name": "Astral Pack Three",
+    "release_date": null
+  },
+  {
+    "id": "ct08",
+    "game": "yugioh",
+    "set_name": "Collectible Tins 2011 Wave 1",
+    "release_date": null
+  },
+  {
+    "id": "duea",
+    "game": "yugioh",
+    "set_name": "Duelist Alliance",
+    "release_date": null
+  },
+  {
+    "id": "sp15",
+    "game": "yugioh",
+    "set_name": "Star Pack ARC-V",
+    "release_date": null
+  },
+  {
+    "id": "macr",
+    "game": "yugioh",
+    "set_name": "Maximum Crisis",
+    "release_date": null
+  },
+  {
+    "id": "gftp",
+    "game": "yugioh",
+    "set_name": "Ghosts From the Past",
+    "release_date": null
+  },
+  {
+    "id": "tu01",
+    "game": "yugioh",
+    "set_name": "Turbo Pack: Booster One",
+    "release_date": null
+  },
+  {
+    "id": "dp2",
+    "game": "yugioh",
+    "set_name": "Duelist Pack: Chazz Princeton",
+    "release_date": null
+  },
+  {
+    "id": "een",
+    "game": "yugioh",
+    "set_name": "Elemental Energy",
+    "release_date": null
+  },
+  {
+    "id": "sddl",
+    "game": "yugioh",
+    "set_name": "Dragunity Legion Structure Deck",
+    "release_date": null
+  },
+  {
+    "id": "sd1",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Dragon's Roar",
+    "release_date": null
+  },
+  {
+    "id": "sd5",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Warrior's Triumph",
+    "release_date": null
+  },
+  {
+    "id": "sdsa",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Sacred Beasts",
+    "release_date": null
+  },
+  {
+    "id": "dp06",
+    "game": "yugioh",
+    "set_name": "Duelist Pack: Jaden Yuki 3",
+    "release_date": null
+  },
+  {
+    "id": "op02",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 2",
+    "release_date": null
+  },
+  {
+    "id": "prc1",
+    "game": "yugioh",
+    "set_name": "Premium Collection Tin",
+    "release_date": null
+  },
+  {
+    "id": "sdcr",
+    "game": "yugioh",
+    "set_name": "Cyber Dragon Revolution Structure Deck",
+    "release_date": null
+  },
+  {
+    "id": "sdmm",
+    "game": "yugioh",
+    "set_name": "Machina Mayhem Structure Deck",
+    "release_date": null
+  },
+  {
+    "id": "hsrd",
+    "game": "yugioh",
+    "set_name": "High-Speed Riders",
+    "release_date": null
+  },
+  {
+    "id": "dp08",
+    "game": "yugioh",
+    "set_name": "Duelist Pack: Yusei",
+    "release_date": null
+  },
+  {
+    "id": "grcr",
+    "game": "yugioh",
+    "set_name": "The Grand Creators",
+    "release_date": null
+  },
+  {
+    "id": "op04",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 4",
+    "release_date": null
+  },
+  {
+    "id": "op08",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 8",
+    "release_date": null
+  },
+  {
+    "id": "sdbt",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Beware of Traptrix",
+    "release_date": null
+  },
+  {
+    "id": "nkrt",
+    "game": "yugioh",
+    "set_name": "Noble Knights of the Round Table Box Set",
+    "release_date": null
+  },
+  {
+    "id": "led5",
+    "game": "yugioh",
+    "set_name": "Legendary Duelists: Immortal Destiny",
+    "release_date": null
+  },
+  {
+    "id": "spwa",
+    "game": "yugioh",
+    "set_name": "Spirit Warriors",
+    "release_date": null
+  },
+  {
+    "id": "stor",
+    "game": "yugioh",
+    "set_name": "Storm of Ragnarok",
+    "release_date": null
+  },
+  {
+    "id": "sdwd",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Blue-Eyes White Destiny",
+    "release_date": null
+  },
+  {
+    "id": "sdsb",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Soulburner",
+    "release_date": null
+  },
+  {
+    "id": "docs",
+    "game": "yugioh",
+    "set_name": "Dimension of Chaos",
+    "release_date": null
+  },
+  {
+    "id": "ap01",
+    "game": "yugioh",
+    "set_name": "Astral Pack One",
+    "release_date": null
+  },
+  {
+    "id": "hl04",
+    "game": "yugioh",
+    "set_name": "Hobby League 4 participation card C",
+    "release_date": null
+  },
+  {
+    "id": "pp02",
+    "game": "yugioh",
+    "set_name": "Premium Pack 2 (TCG)",
+    "release_date": null
+  },
+  {
+    "id": "ap02",
+    "game": "yugioh",
+    "set_name": "Astral Pack Two",
+    "release_date": null
+  },
+  {
+    "id": "5ds1",
+    "game": "yugioh",
+    "set_name": "Starter Deck: Yu-Gi-Oh! 5D's",
+    "release_date": null
+  },
+  {
+    "id": "sdcs",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Cyber Strike",
+    "release_date": null
+  },
+  {
+    "id": "dp04",
+    "game": "yugioh",
+    "set_name": "Duelist Pack: Zane Truesdale",
+    "release_date": null
+  },
+  {
+    "id": "stax",
+    "game": "yugioh",
+    "set_name": "2-Player Starter Set",
+    "release_date": null
+  },
+  {
+    "id": "wsup",
+    "game": "yugioh",
+    "set_name": "World Superstars",
+    "release_date": null
+  },
+  {
+    "id": "exvc",
+    "game": "yugioh",
+    "set_name": "Extreme Victory",
+    "release_date": null
+  },
+  {
+    "id": "sdch",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Spirit Charmers",
+    "release_date": null
+  },
+  {
+    "id": "eoj",
+    "game": "yugioh",
+    "set_name": "Enemy of Justice",
+    "release_date": null
+  },
+  {
+    "id": "tdgs",
+    "game": "yugioh",
+    "set_name": "The Duelist Genesis",
+    "release_date": null
+  },
+  {
+    "id": "hisu",
+    "game": "yugioh",
+    "set_name": "Hidden Summoners",
+    "release_date": null
+  },
+  {
+    "id": "dldi",
+    "game": "yugioh",
+    "set_name": "Duelist League Demo 2010",
+    "release_date": null
+  },
+  {
+    "id": "sye",
+    "game": "yugioh",
+    "set_name": "Starter Deck: Yugi Evolution",
+    "release_date": null
+  },
+  {
+    "id": "tp1",
+    "game": "yugioh",
+    "set_name": "Tournament Pack: 1st Season",
+    "release_date": null
+  },
+  {
+    "id": "ha07",
+    "game": "yugioh",
+    "set_name": "Hidden Arsenal 7: Knight of Stars",
+    "release_date": null
+  },
+  {
+    "id": "sp14",
+    "game": "yugioh",
+    "set_name": "Star Pack 2014",
+    "release_date": null
+  },
+  {
+    "id": "25lp",
+    "game": "yugioh",
+    "set_name": "Limited Pack World Championship 2025",
+    "release_date": null
+  },
+  {
+    "id": "dem5",
+    "game": "yugioh",
+    "set_name": "Speed Duel Demo Deck",
+    "release_date": null
+  },
+  {
+    "id": "dem6",
+    "game": "yugioh",
+    "set_name": "Speed Duel Demo Deck 2020",
+    "release_date": null
+  },
+  {
+    "id": "numh",
+    "game": "yugioh",
+    "set_name": "Number Hunters",
+    "release_date": null
+  },
+  {
+    "id": "sr04",
+    "game": "yugioh",
+    "set_name": "Dinosmasher's Fury Structure Deck",
+    "release_date": null
+  },
+  {
+    "id": "op18",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 18",
+    "release_date": null
+  },
+  {
+    "id": "sd09",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Dinosaur's Rage",
+    "release_date": null
+  },
+  {
+    "id": "sr10",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Mechanized Madness",
+    "release_date": null
+  },
+  {
+    "id": "sdok",
+    "game": "yugioh",
+    "set_name": "Onslaught of the Fire Kings Structure Deck",
+    "release_date": null
+  },
+  {
+    "id": "sd3",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Blaze of Destruction",
+    "release_date": null
+  },
+  {
+    "id": "sdcl",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Cyberse Link",
+    "release_date": null
+  },
+  {
+    "id": "ys18",
+    "game": "yugioh",
+    "set_name": "Starter Deck: Codebreaker",
+    "release_date": null
+  },
+  {
+    "id": "db49",
+    "game": "yugioh",
+    "set_name": "Dark Beginning 1",
+    "release_date": null
+  },
+  {
+    "id": "cyho",
+    "game": "yugioh",
+    "set_name": "Cybernetic Horizon",
+    "release_date": null
+  },
+  {
+    "id": "csoc",
+    "game": "yugioh",
+    "set_name": "Crossroads of Chaos",
+    "release_date": null
+  },
+  {
+    "id": "evsd",
+    "game": "yugioh",
+    "set_name": "Speed Duel: Scars of Battle Launch Event participation card",
+    "release_date": null
+  },
+  {
+    "id": "stp6",
+    "game": "yugioh",
+    "set_name": "Speed Duel Tournament Pack 6",
+    "release_date": null
+  },
+  {
+    "id": "sdde",
+    "game": "yugioh",
+    "set_name": "The Dark Emperor Structure Deck",
+    "release_date": null
+  },
+  {
+    "id": "ys11",
+    "game": "yugioh",
+    "set_name": "Starter Deck: Dawn of the Xyz",
+    "release_date": null
+  },
+  {
+    "id": "5ds3",
+    "game": "yugioh",
+    "set_name": "Starter Deck: Duelist Toolbox",
+    "release_date": null
+  },
+  {
+    "id": "ysdj",
+    "game": "yugioh",
+    "set_name": "Starter Deck: Jaden Yuki",
+    "release_date": null
+  },
+  {
+    "id": "yg08",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! GX Volume 8 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "led8",
+    "game": "yugioh",
+    "set_name": "Legendary Duelists: Synchro Storm",
+    "release_date": null
+  },
+  {
+    "id": "dl1",
+    "game": "yugioh",
+    "set_name": "Duelist League Series 1 participation cards",
+    "release_date": null
+  },
+  {
+    "id": "mc1",
+    "game": "yugioh",
+    "set_name": "Master Collection Volume 1",
+    "release_date": null
+  },
+  {
+    "id": "op17",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 17",
+    "release_date": null
+  },
+  {
+    "id": "sr01",
+    "game": "yugioh",
+    "set_name": "Emperor of Darkness Structure Deck",
+    "release_date": null
+  },
+  {
+    "id": "ys17",
+    "game": "yugioh",
+    "set_name": "Starter Deck: Link Strike",
+    "release_date": null
+  },
+  {
+    "id": "dem2",
+    "game": "yugioh",
+    "set_name": "Demo Deck 2015",
+    "release_date": null
+  },
+  {
+    "id": "ske",
+    "game": "yugioh",
+    "set_name": "Starter Deck: Kaiba Evolution",
+    "release_date": null
+  },
+  {
+    "id": "ld10",
+    "game": "yugioh",
+    "set_name": "Legendary Duelists: Soulburning Volcano",
+    "release_date": null
+  },
+  {
+    "id": "tp5",
+    "game": "yugioh",
+    "set_name": "Tournament Pack 5",
+    "release_date": null
+  },
+  {
+    "id": "dl16",
+    "game": "yugioh",
+    "set_name": "Duelist League 16 participation cards",
+    "release_date": null
+  },
+  {
+    "id": "gld4",
+    "game": "yugioh",
+    "set_name": "Gold Series 4: Pyramids Edition",
+    "release_date": null
+  },
+  {
+    "id": "tp2",
+    "game": "yugioh",
+    "set_name": "Tournament Pack: 2nd Season",
+    "release_date": null
+  },
+  {
+    "id": "yf08",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! 5D's volume 8 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "gld2",
+    "game": "yugioh",
+    "set_name": "Gold Series 2009",
+    "release_date": null
+  },
+  {
+    "id": "tp8",
+    "game": "yugioh",
+    "set_name": "Tournament Pack 8",
+    "release_date": null
+  },
+  {
+    "id": "ac19",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! Advent Calendar (2019)",
+    "release_date": null
+  },
+  {
+    "id": "sdws",
+    "game": "yugioh",
+    "set_name": "Warriors' Strike Structure Deck",
+    "release_date": null
+  },
+  {
+    "id": "cp01",
+    "game": "yugioh",
+    "set_name": "Champion Pack: Game One",
+    "release_date": null
+  },
+  {
+    "id": "dl09",
+    "game": "yugioh",
+    "set_name": "Duelist League 2010 participation cards",
+    "release_date": null
+  },
+  {
+    "id": "dpyg",
+    "game": "yugioh",
+    "set_name": "Duelist Pack: Yugi",
+    "release_date": null
+  },
+  {
+    "id": "op23",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 23",
+    "release_date": null
+  },
+  {
+    "id": "ap08",
+    "game": "yugioh",
+    "set_name": "Astral Pack Eight",
+    "release_date": null
+  },
+  {
+    "id": "stp1",
+    "game": "yugioh",
+    "set_name": "Speed Duel Tournament Pack 1",
+    "release_date": null
+  },
+  {
+    "id": "mc2",
+    "game": "yugioh",
+    "set_name": "Master Collection Volume 2",
+    "release_date": null
+  },
+  {
+    "id": "toch",
+    "game": "yugioh",
+    "set_name": "Toon Chaos",
+    "release_date": null
+  },
+  {
+    "id": "pp01",
+    "game": "yugioh",
+    "set_name": "Premium Pack (TCG)",
+    "release_date": null
+  },
+  {
+    "id": "ysd",
+    "game": "yugioh",
+    "set_name": "Starter Deck 2006",
+    "release_date": null
+  },
+  {
+    "id": "tn23",
+    "game": "yugioh",
+    "set_name": "25th Anniversary Tin: Dueling Heroes",
+    "release_date": null
+  },
+  {
+    "id": "ct05",
+    "game": "yugioh",
+    "set_name": "Collectible Tins 2008 Wave 2",
+    "release_date": null
+  },
+  {
+    "id": "lc05",
+    "game": "yugioh",
+    "set_name": "Legendary Collection 5D's",
+    "release_date": null
+  },
+  {
+    "id": "yf07",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! 5D's Volume 7 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "op27",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 27",
+    "release_date": null
+  },
+  {
+    "id": "bpt",
+    "game": "yugioh",
+    "set_name": "Booster Pack Collectors Tins 2002",
+    "release_date": null
+  },
+  {
+    "id": "dl15",
+    "game": "yugioh",
+    "set_name": "Duelist League 15 participation cards",
+    "release_date": null
+  },
+  {
+    "id": "yf04",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! 5D's Volume 4 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "dl11",
+    "game": "yugioh",
+    "set_name": "Duelist League 2 participation cards",
+    "release_date": null
+  },
+  {
+    "id": "dl17",
+    "game": "yugioh",
+    "set_name": "Duelist League 17 participation cards",
+    "release_date": null
+  },
+  {
+    "id": "ct1",
+    "game": "yugioh",
+    "set_name": "Collectible Tins 2004",
+    "release_date": null
+  },
+  {
+    "id": "stp4",
+    "game": "yugioh",
+    "set_name": "Speed Duel Tournament Pack 4",
+    "release_date": null
+  },
+  {
+    "id": "dprp",
+    "game": "yugioh",
+    "set_name": "Duelist Pack: Rivals of the Pharaoh",
+    "release_date": null
+  },
+  {
+    "id": "ydb1",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! GX Card Almanac promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "ct09",
+    "game": "yugioh",
+    "set_name": "Collectible Tins 2012 Wave 1",
+    "release_date": null
+  },
+  {
+    "id": "yg07",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! GX Volume 7 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "dpk",
+    "game": "yugioh",
+    "set_name": "Duelist Pack: Special Edition",
+    "release_date": null
+  },
+  {
+    "id": "sp17",
+    "game": "yugioh",
+    "set_name": "Star Pack Battle Royal",
+    "release_date": null
+  },
+  {
+    "id": "op07",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 7",
+    "release_date": null
+  },
+  {
+    "id": "lc04",
+    "game": "yugioh",
+    "set_name": "Legendary Collection 4: Joey's World",
+    "release_date": null
+  },
+  {
+    "id": "tn19",
+    "game": "yugioh",
+    "set_name": "2019 Gold Sarcophagus Tin",
+    "release_date": null
+  },
+  {
+    "id": "sbpr",
+    "game": "yugioh",
+    "set_name": "Blue-Eyes Alternative White Dragon Sweepstakes",
+    "release_date": null
+  },
+  {
+    "id": "mov",
+    "game": "yugioh",
+    "set_name": "Movie Pack",
+    "release_date": null
+  },
+  {
+    "id": "ct14",
+    "game": "yugioh",
+    "set_name": "2017 Mega-Tins",
+    "release_date": null
+  },
+  {
+    "id": "yap1",
+    "game": "yugioh",
+    "set_name": "Anniversary Pack",
+    "release_date": null
+  },
+  {
+    "id": "fl1",
+    "game": "yugioh",
+    "set_name": "Forbidden Legacy",
+    "release_date": null
+  },
+  {
+    "id": "gld5",
+    "game": "yugioh",
+    "set_name": "Gold Series: Haunted Mine",
+    "release_date": null
+  },
+  {
+    "id": "lc01",
+    "game": "yugioh",
+    "set_name": "Legendary Collection",
+    "release_date": null
+  },
+  {
+    "id": "kacb",
+    "game": "yugioh",
+    "set_name": "Yugi & Kaiba Collector Box",
+    "release_date": null
+  },
+  {
+    "id": "wira",
+    "game": "yugioh",
+    "set_name": "Wing Raiders",
+    "release_date": null
+  },
+  {
+    "id": "sd2",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Zombie Madness",
+    "release_date": null
+  },
+  {
+    "id": "sdzw",
+    "game": "yugioh",
+    "set_name": "Zombie World Structure Deck",
+    "release_date": null
+  },
+  {
+    "id": "optp",
+    "game": "yugioh",
+    "set_name": "Trials of the Pharaoh - Speed Duel: Battle City Box promotional card",
+    "release_date": null
+  },
+  {
+    "id": "ac18",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! Advent Calendar (2018)",
+    "release_date": null
+  },
+  {
+    "id": "sd7",
+    "game": "yugioh",
+    "set_name": "Structure Deck: Invincible Fortress",
+    "release_date": null
+  },
+  {
+    "id": "gx03",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! GX Spirit Caller promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "dl10",
+    "game": "yugioh",
+    "set_name": "Duelist League Series 10 participation card",
+    "release_date": null
+  },
+  {
+    "id": "h5se",
+    "game": "yugioh",
+    "set_name": "Hidden Arsenal 5: Steelswarm Invasion: Special Edition",
+    "release_date": null
+  },
+  {
+    "id": "op12",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 12",
+    "release_date": null
+  },
+  {
+    "id": "ap07",
+    "game": "yugioh",
+    "set_name": "Astral Pack Seven",
+    "release_date": null
+  },
+  {
+    "id": "gx05",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! GX Tag Force Evolution promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "wc08",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! World Championship 2008 promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "dp03",
+    "game": "yugioh",
+    "set_name": "Duelist Pack: Jaden Yuki 2",
+    "release_date": null
+  },
+  {
+    "id": "op29",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 29",
+    "release_date": null
+  },
+  {
+    "id": "wb01",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! 5D's Wheelie Breakers Promotional Cards",
+    "release_date": null
+  },
+  {
+    "id": "op24",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 24",
+    "release_date": null
+  },
+  {
+    "id": "op19",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 19",
+    "release_date": null
+  },
+  {
+    "id": "tu03",
+    "game": "yugioh",
+    "set_name": "Turbo Pack: Booster Three",
+    "release_date": null
+  },
+  {
+    "id": "tp4",
+    "game": "yugioh",
+    "set_name": "Tournament Pack 4",
+    "release_date": null
+  },
+  {
+    "id": "dl12",
+    "game": "yugioh",
+    "set_name": "Duelist League 3 participation cards",
+    "release_date": null
+  },
+  {
+    "id": "hl06",
+    "game": "yugioh",
+    "set_name": "Hobby League 6 participation card E",
+    "release_date": null
+  },
+  {
+    "id": "op09",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 9",
+    "release_date": null
+  },
+  {
+    "id": "hl07",
+    "game": "yugioh",
+    "set_name": "Hobby League 7 participation card E",
+    "release_date": null
+  },
+  {
+    "id": "ct12",
+    "game": "yugioh",
+    "set_name": "2015 Mega-Tins",
+    "release_date": null
+  },
+  {
+    "id": "yf02",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! 5D's Volume 2 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "db46",
+    "game": "yugioh",
+    "set_name": "Dark Beginning 1",
+    "release_date": null
+  },
+  {
+    "id": "dpdg",
+    "game": "yugioh",
+    "set_name": "Duelist Pack: Dimensional Guardians",
+    "release_date": null
+  },
+  {
+    "id": "op05",
+    "game": "yugioh",
+    "set_name": "OTS Tournament Pack 5",
+    "release_date": null
+  },
+  {
+    "id": "sdwa",
+    "game": "yugioh",
+    "set_name": "Samurai Warlords Structure Deck",
+    "release_date": null
+  },
+  {
+    "id": "gx04",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! GX Tag Force 2 promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "sdmp",
+    "game": "yugioh",
+    "set_name": "Master of Pendulum Structure Deck",
+    "release_date": null
+  },
+  {
+    "id": "tf05",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! 5D's Tag Force 5 promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "wcps",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! World Championship 2007 prize cards",
+    "release_date": null
+  },
+  {
+    "id": "tfk",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! The Falsebound Kingdom promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "wc4",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! World Championship Tournament 2004 promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "ya02",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! ARC-V Volume 2 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "dp05",
+    "game": "yugioh",
+    "set_name": "Duelist Pack: Aster Phoenix",
+    "release_date": null
+  },
+  {
+    "id": "mp1",
+    "game": "yugioh",
+    "set_name": "McDonald's Promotional Cards",
+    "release_date": null
+  },
+  {
+    "id": "lc02",
+    "game": "yugioh",
+    "set_name": "Legendary Collection 2: The Duel Academy Years",
+    "release_date": null
+  },
+  {
+    "id": "hl03",
+    "game": "yugioh",
+    "set_name": "Hobby League 3 participation card B",
+    "release_date": null
+  },
+  {
+    "id": "5ds2",
+    "game": "yugioh",
+    "set_name": "Starter Deck: Yu-Gi-Oh! 5D's 2009",
+    "release_date": null
+  },
+  {
+    "id": "sjcs",
+    "game": "yugioh",
+    "set_name": "Shonen Jump Championship 2007 Prize Card A",
+    "release_date": null
+  },
+  {
+    "id": "hl05",
+    "game": "yugioh",
+    "set_name": "Hobby League 5 participation card C",
+    "release_date": null
+  },
+  {
+    "id": "ct04",
+    "game": "yugioh",
+    "set_name": "Collectible Tins 2007 Wave 1",
+    "release_date": null
+  },
+  {
+    "id": "ct03",
+    "game": "yugioh",
+    "set_name": "Collectible Tins 2006 Wave 1",
+    "release_date": null
+  },
+  {
+    "id": "mf02",
+    "game": "yugioh",
+    "set_name": "Mattel Action Figure promotional cards: Series 2",
+    "release_date": null
+  },
+  {
+    "id": "hl2",
+    "game": "yugioh",
+    "set_name": "Hobby League 2 participation card A",
+    "release_date": null
+  },
+  {
+    "id": "sjc",
+    "game": "yugioh",
+    "set_name": "Shonen Jump Championship 2004 Prize Card",
+    "release_date": null
+  },
+  {
+    "id": "lod2",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "dbt",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! Destiny Board Traveler promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "ya03",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! ARC-V Volume 3 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "gtp2",
+    "game": "yugioh",
+    "set_name": "Ghosts From the Past: The 2nd Haunting",
+    "release_date": null
+  },
+  {
+    "id": "dem1",
+    "game": "yugioh",
+    "set_name": "Demo Pack",
+    "release_date": null
+  },
+  {
+    "id": "yf01",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! 5D's Volume 1 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "db32",
+    "game": "yugioh",
+    "set_name": "Dark Beginning 1",
+    "release_date": null
+  },
+  {
+    "id": "25th",
+    "game": "yugioh",
+    "set_name": "Battle of Chaos",
+    "release_date": null
+  },
+  {
+    "id": "ct2",
+    "game": "yugioh",
+    "set_name": "Collectible Tins 2005",
+    "release_date": null
+  },
+  {
+    "id": "rod",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! Double Pack promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "dl2",
+    "game": "yugioh",
+    "set_name": "Duelist League Series 2 participation cards",
+    "release_date": null
+  },
+  {
+    "id": "lc03",
+    "game": "yugioh",
+    "set_name": "Legendary Collection 3: Yugi's World",
+    "release_date": null
+  },
+  {
+    "id": "dmg",
+    "game": "yugioh",
+    "set_name": "Duel Master's Guide promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "dod",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! The Dawn of Destiny promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "yg05",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! GX Volume 5 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "gx06",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! GX Tag Force 3 promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "pt1",
+    "game": "yugioh",
+    "set_name": "Pharaoh Tour 2005 promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "ydpr",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! Day April 2019 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "wc07",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! World Championship 2007 promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "lc06",
+    "game": "yugioh",
+    "set_name": "Legendary Collection Kaiba",
+    "release_date": null
+  },
+  {
+    "id": "ra05",
+    "game": "yugioh",
+    "set_name": "Rarity Collection 5",
+    "release_date": null
+  },
+  {
+    "id": "ue02",
+    "game": "yugioh",
+    "set_name": "Ultimate Edition 2",
+    "release_date": null
+  },
+  {
+    "id": "db14",
+    "game": "yugioh",
+    "set_name": "Dark Beginning 1",
+    "release_date": null
+  },
+  {
+    "id": "saas",
+    "game": "yugioh",
+    "set_name": "Samurai Assault",
+    "release_date": null
+  },
+  {
+    "id": "yg04",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! GX Volume 4 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "ehc1",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! Elemental Hero Collection 1",
+    "release_date": null
+  },
+  {
+    "id": "ehc2",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! Elemental Hero Collection 2",
+    "release_date": null
+  },
+  {
+    "id": "yg09",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! GX Volume 9 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "gx1",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! GX Duel Academy promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "pt03",
+    "game": "yugioh",
+    "set_name": "Pharaoh Tour 2007 promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "yg06",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! GX Volume 6 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "mf01",
+    "game": "yugioh",
+    "set_name": "Mattel Action Figure promotional cards: Series 1",
+    "release_date": null
+  },
+  {
+    "id": "gse",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! GX Special Edition",
+    "release_date": null
+  },
+  {
+    "id": "eds",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! The Eternal Duelist Soul promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "tsc",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! The Sacred Cards promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "ubp1",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! GX Ultimate Beginner's Pack",
+    "release_date": null
+  },
+  {
+    "id": "ffse",
+    "game": "yugioh",
+    "set_name": "Fire Fists: Special Edition",
+    "release_date": null
+  },
+  {
+    "id": "dem4",
+    "game": "yugioh",
+    "set_name": "Advanced Demo Deck Extra Pack",
+    "release_date": null
+  },
+  {
+    "id": "yz09",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! ZEXAL Volume 9 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "ya07",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! ARC-V Volume 7 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "wc6",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006 promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "yr01",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! R Volume 3 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "db9",
+    "game": "yugioh",
+    "set_name": "Dark Beginning 1",
+    "release_date": null
+  },
+  {
+    "id": "db43",
+    "game": "yugioh",
+    "set_name": "Dark Beginning 1",
+    "release_date": null
+  },
+  {
+    "id": "fmr",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! Forbidden Memories promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "sp02",
+    "game": "yugioh",
+    "set_name": "Power of the Duelist Sneak Peek Participation Card",
+    "release_date": null
+  },
+  {
+    "id": "twed",
+    "game": "yugioh",
+    "set_name": "Twilight Edition",
+    "release_date": null
+  },
+  {
+    "id": "yf06",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! 5D's Volume 6 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "dpc5",
+    "game": "yugioh",
+    "set_name": "Duelist Pack Collection Tin 2011",
+    "release_date": null
+  },
+  {
+    "id": "wc09",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! 5D's World Championship 2009: Stardust Accelerator promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "yf03",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! 5D's Volume 3 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "ymp1",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! 3D Bonds Beyond Time Movie Pack",
+    "release_date": null
+  },
+  {
+    "id": "yz01",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! ZEXAL Volume 1 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "wc5",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005 promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "wcs",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! World Championship 2005 prize cards",
+    "release_date": null
+  },
+  {
+    "id": "dl9",
+    "game": "yugioh",
+    "set_name": "Duelist League Series 9 participation card",
+    "release_date": null
+  },
+  {
+    "id": "ldpp",
+    "game": "yugioh",
+    "set_name": "Light and Darkness Power Pack",
+    "release_date": null
+  },
+  {
+    "id": "yg01",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! GX Volume 1 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "dl4",
+    "game": "yugioh",
+    "set_name": "Duelist League Series 4 participation card",
+    "release_date": null
+  },
+  {
+    "id": "em1",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! Trading Card Game Tour 2004 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "db48",
+    "game": "yugioh",
+    "set_name": "Dark Beginning 1",
+    "release_date": null
+  },
+  {
+    "id": "ntr",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! Nightmare Troubadour promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "mov2",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! 3D Bonds Beyond Time DVD promotional card",
+    "release_date": null
+  },
+  {
+    "id": "wq11",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! World Championship Qualifier National Championships 2011 prize cards",
+    "release_date": null
+  },
+  {
+    "id": "tbc1",
+    "game": "yugioh",
+    "set_name": "The Pot Collection",
+    "release_date": null
+  },
+  {
+    "id": "db13",
+    "game": "yugioh",
+    "set_name": "Dark Beginning 1",
+    "release_date": null
+  },
+  {
+    "id": "hase",
+    "game": "yugioh",
+    "set_name": "Hidden Arsenal: Special Edition",
+    "release_date": null
+  },
+  {
+    "id": "wc11",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "dl3",
+    "game": "yugioh",
+    "set_name": "Duelist League Series 3 participation card",
+    "release_date": null
+  },
+  {
+    "id": "zdc1",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! ZEXAL World Duel Carnival promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "db40",
+    "game": "yugioh",
+    "set_name": "Dark Beginning 1",
+    "release_date": null
+  },
+  {
+    "id": "yz03",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! ZEXAL Volume 3 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "yz07",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! ZEXAL Volume 7 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "yz04",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! ZEXAL Volume 4 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "yz02",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! ZEXAL Volume 2 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "yz06",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! ZEXAL Volume 6 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "yz05",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! ZEXAL Volume 5 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "yz08",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! ZEXAL Volume 8 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "mvpc",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! The Dark Side of Dimensions Blu-ray & DVD promotional card",
+    "release_date": null
+  },
+  {
+    "id": "ya05",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! ARC-V Volume 5 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "ya01",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! ARC-V Volume 1 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "gx02",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! GX Tag Force promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "nkc1",
+    "game": "yugioh",
+    "set_name": "Nike collaboration cards",
+    "release_date": null
+  },
+  {
+    "id": "pcj",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! Power of Chaos: Joey the Passion promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "tf04",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! 5D's Tag Force 4 promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "efc1",
+    "game": "yugioh",
+    "set_name": "EFootball collaboration cards",
+    "release_date": null
+  },
+  {
+    "id": "dl5",
+    "game": "yugioh",
+    "set_name": "Duelist League Series 5 participation card",
+    "release_date": null
+  },
+  {
+    "id": "wc10",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! 5D's World Championship 2010: Reverse of Arcadia promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "tkn1",
+    "game": "yugioh",
+    "set_name": "San Diego Comic-Con promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "pt02",
+    "game": "yugioh",
+    "set_name": "Pharaoh Tour 2006 promotional cards",
+    "release_date": null
+  },
+  {
+    "id": "yf09",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! 5D's Volume 9 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "yf05",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! 5D's Volume 5 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "db47",
+    "game": "yugioh",
+    "set_name": "Dark Beginning 1",
+    "release_date": null
+  },
+  {
+    "id": "yg02",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! GX Volume 2 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "ya06",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! ARC-V Volume 6 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "dl6",
+    "game": "yugioh",
+    "set_name": "Duelist League Series 6 participation card",
+    "release_date": null
+  },
+  {
+    "id": "dl7",
+    "game": "yugioh",
+    "set_name": "Duelist League Series 7 participation card",
+    "release_date": null
+  },
+  {
+    "id": "db5",
+    "game": "yugioh",
+    "set_name": "Dark Beginning 1",
+    "release_date": null
+  },
+  {
+    "id": "tyl",
+    "game": "yugioh",
+    "set_name": "Make-A-Wish Foundation promotional card",
+    "release_date": null
+  },
+  {
+    "id": "db18",
+    "game": "yugioh",
+    "set_name": "Dark Beginning 1",
+    "release_date": null
+  },
+  {
+    "id": "ddy1",
+    "game": "yugioh",
+    "set_name": "Duel Disk - Yusei Version",
+    "release_date": null
+  },
+  {
+    "id": "ya04",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! ARC-V Volume 4 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "gxng",
+    "game": "yugioh",
+    "set_name": "GX Next Generation",
+    "release_date": null
+  },
+  {
+    "id": "yg03",
+    "game": "yugioh",
+    "set_name": "Yu-Gi-Oh! GX Volume 3 promotional card",
+    "release_date": null
+  },
+  {
+    "id": "xspu",
+    "game": "yugioh",
+    "set_name": "X-Saber Power-Up",
+    "release_date": null
+  }
+]
