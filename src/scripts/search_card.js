@@ -1,0 +1,39 @@
+const { createClient } = require("@supabase/supabase-js");
+
+const supabaseUrl = "https://mheqakdzirlrpslextab.supabase.co";
+const supabaseKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1oZXFha2R6aXJscnBzbGV4dGFiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzMxMTY2MzgsImV4cCI6MjA4ODY5MjYzOH0.XwcrXlyF6WB1qK4HNH9wQQ7zn6qp4kQ7tELdMkNClqg";
+
+const supabase = createClient(supabaseUrl, supabaseKey);
+
+async function searchCard() {
+
+  const setId = "sv3"
+  const cardNumber = "32"
+
+  const { data, error } = await supabase
+    .from("cards")
+    .select(`
+        card_name,
+        card_number,
+        set_id,
+        rarity,
+        image_url,
+        sets!fk_cards_sets (
+            set_name,
+            release_date
+        )
+    `)
+    .eq("game", "pokemon")
+    .eq('set_id', setId)
+    .eq('card_number', cardNumber)
+    .limit(5);
+
+  if (error) {
+    console.log(error);
+  } else {
+    console.log(data);
+  }
+
+}
+
+searchCard();
