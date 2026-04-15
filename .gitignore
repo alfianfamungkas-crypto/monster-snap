@@ -1,2 +1,4 @@
 vision-key.json
 .env
+cards/
+node_modules/
