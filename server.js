@@ -7,7 +7,7 @@ const cors = require("cors");
 const fs = require("fs");
 
 const { createClient } = require("@supabase/supabase-js");
-const vision = require("@google-cloud/vision");
+
 
 
 // ===== HELPER FUNCTION =====
