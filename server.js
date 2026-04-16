@@ -67,9 +67,23 @@ const supabase = createClient(
    GOOGLE VISION
 ----------------------------- */
 
-const client = new vision.ImageAnnotatorClient({
-  keyFilename: process.env.GOOGLE_APPLICATION_CREDENTIALS
-});
+const vision = require('@google-cloud/vision')
+
+let client
+
+if (process.env.GOOGLE_CREDENTIALS_JSON) {
+  // 🔥 PRODUCTION (Railway)
+  client = new vision.ImageAnnotatorClient({
+    credentials: JSON.parse(process.env.GOOGLE_CREDENTIALS_JSON)
+  })
+  console.log("Using ENV credentials")
+} else {
+  // 🟢 LOCAL (pakai .env atau fallback file)
+  client = new vision.ImageAnnotatorClient({
+    keyFilename: process.env.GOOGLE_APPLICATION_CREDENTIALS || './vision-key.json'
+  })
+  console.log("Using local file credentials")
+}
 
 /* -----------------------------
    FILE UPLOAD
