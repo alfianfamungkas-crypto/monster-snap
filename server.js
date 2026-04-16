@@ -1,14 +1,25 @@
-require('dotenv').config()
+require('dotenv').config();
 
-const express = require("express");
-const multer = require("multer");
-const axios = require("axios");
-const cors = require("cors");
-const fs = require("fs");
+const express = require('express');
+const multer = require('multer');
+const axios = require('axios');
+const fs = require('fs');
+const cors = require('cors');
 
-const { createClient } = require("@supabase/supabase-js");
+const app = express();
 
+app.use(cors({
+  origin: [
+    'http://localhost:5173', // untuk development
+    'http://localhost:5175', // untuk development
+    'http://localhost:5174', // untuk development
+    'https://trezora-monster-snap.vercel.app' // untuk production (sesuaikan dengan URL frontend kamu)
+  ]
+}));
 
+app.use(express.json());
+
+const { createClient } = require('@supabase/supabase-js')
 
 // ===== HELPER FUNCTION =====
 function normalizePhone(phone) {
@@ -45,7 +56,6 @@ function formatIDR(priceUSD) {
   };
 }
 
-const app = express();
 app.use((req, res, next) => {
   res.setHeader("Cache-Control", "public, max-age=60");
   next();
@@ -237,24 +247,27 @@ app.get("/home/sets", async (req, res) => {
   try {
     const { data, error } = await supabase
       .from("sets")
-      .select("id, set_name, logo_url")
-      .eq("game", "pokemon") // 🔥 INI KUNCI
-      .order("set_name", { ascending: true });
+      .select("id, set_name, logo_url, series, release_date")
+      .eq("game", "pokemon")
+      .order("release_date", { ascending: false });
 
     if (error) throw error;
 
+    console.log("SETS RAW:", data); // 🔥 pindahin ke sini
+
     return success(res, {
-      sets: data.map(s => ({
+      sets: (data || []).map(s => ({
         id: s.id,
         name: s.set_name,
-        logo: s.logo_url
+        logo: s.logo_url,
+        series: s.series,
+        release_date: s.release_date
       }))
     });
 
   } catch (err) {
     return fail(res, err.message);
   }
-  console.log("SETS RAW:", data);
 });
 
 
@@ -668,11 +681,6 @@ app.get("/cards/:id", async (req, res) => {
     if (printsError) {
       console.log("PRINTS ERROR:", printsError);
       console.log("CARD ID:", card.card_id);
-
-    const { data: prints, error } = await supabase
-      .from("card_prints")
-      .select("*")
-      .eq("card_id", card.card_id);
 
     console.log("PRINTS RAW:", prints);
     console.log("PRINTS ERROR:", error);
