@@ -33,12 +33,13 @@ app.use(cors({
     }
 
     console.log("BLOCKED BY CORS:", origin);
-    return callback(new Error("Not allowed by CORS"));
+    return callback(null, false);
   },
   methods: ['GET','POST','PUT','DELETE','OPTIONS'],
   allowedHeaders: ['Content-Type','Authorization']
 }));
 
+app.options('*', cors()); // 🔥 kedua
 app.use(express.json());
 
 /* =========================
