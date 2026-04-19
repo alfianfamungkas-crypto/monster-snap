@@ -24,22 +24,27 @@ const allowedOrigins = [
 
 app.use(cors({
   origin: function (origin, callback) {
-
-    // allow non-browser requests (postman, mobile app)
     if (!origin) return callback(null, true);
 
     if (allowedOrigins.includes(origin)) {
       return callback(null, true);
     }
 
-    console.log("BLOCKED BY CORS:", origin);
-    return callback(null, false);
+    console.log("BLOCKED:", origin);
+    return callback(null, false); // 🔥 jangan throw error
   },
   methods: ['GET','POST','PUT','DELETE','OPTIONS'],
   allowedHeaders: ['Content-Type','Authorization']
 }));
 
-app.options('*', cors()); // 🔥 kedua
+// 🔥 SAFE PRE-FLIGHT HANDLER (NO CRASH)
+app.use((req, res, next) => {
+  if (req.method === 'OPTIONS') {
+    return res.sendStatus(200);
+  }
+  next();
+});
+
 app.use(express.json());
 
 /* =========================
