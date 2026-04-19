@@ -14,14 +14,29 @@ const imghash = require("imghash");
 /* =========================
    CORS + JSON
 ========================= */
+const allowedOrigins = [
+  'http://localhost:5173',
+  'http://localhost:5174',
+  'http://localhost:5175',
+  'https://trezora-monster-snap.vercel.app',
+  'https://app.trezora.xyz'
+];
+
 app.use(cors({
-  origin: [
-    'http://localhost:5173',
-    'http://localhost:5174',
-    'http://localhost:5175',
-    'https://trezora-monster-snap.vercel.app'
-    'https://app.trezora.xyz'
-  ]
+  origin: function (origin, callback) {
+
+    // allow non-browser requests (postman, mobile app)
+    if (!origin) return callback(null, true);
+
+    if (allowedOrigins.includes(origin)) {
+      return callback(null, true);
+    }
+
+    console.log("BLOCKED BY CORS:", origin);
+    return callback(new Error("Not allowed by CORS"));
+  },
+  methods: ['GET','POST','PUT','DELETE','OPTIONS'],
+  allowedHeaders: ['Content-Type','Authorization']
 }));
 
 app.use(express.json());
