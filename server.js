@@ -34,7 +34,11 @@ app.use(cors({
     return callback(null, false); // 🔥 jangan throw error
   },
   methods: ['GET','POST','PUT','DELETE','OPTIONS'],
-  allowedHeaders: ['Content-Type','Authorization']
+  allowedHeaders: [
+  'Content-Type',
+  'Authorization',
+  'ngrok-skip-browser-warning' // 🔥 TAMBAH INI
+]
 }));
 
 // 🔥 SAFE PRE-FLIGHT HANDLER (NO CRASH)
